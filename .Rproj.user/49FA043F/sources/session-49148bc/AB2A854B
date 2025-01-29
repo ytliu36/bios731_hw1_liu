@@ -1,0 +1,27 @@
+{
+    "id": "AB2A854B",
+    "path": "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/teaching/Emory/statistical_computing/BIOS731_course_content/labs/1_reproducible_computing/example_simulation/simulations/run_simulations.R",
+    "project_path": "simulations/run_simulations.R",
+    "type": "r_source",
+    "hash": "2232110217",
+    "contents": "",
+    "dirty": false,
+    "created": 1736950219173.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "52,0",
+        "scrollLine": "43"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1736963889,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736963889246,
+    "read_only": false,
+    "read_only_alternatives": []
+}
